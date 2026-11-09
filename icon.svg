@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="120" fill="#ea580c" />
+  <path d="M256 90 L400 170 L400 340 L256 420 L112 340 L112 170 Z" fill="#c2410c" stroke="#fde047" stroke-width="12" />
+  <text x="256" y="245" font-family="&#39;Nunito&#39;, Arial, sans-serif" font-size="80" font-weight="900" text-anchor="middle" fill="#ffffff" letter-spacing="2">MENÚ</text>
+  <text x="256" y="340" font-family="&#39;Nunito&#39;, Arial, sans-serif" font-size="95" font-weight="900" text-anchor="middle" fill="#fde047">4X4</text>
+</svg>
