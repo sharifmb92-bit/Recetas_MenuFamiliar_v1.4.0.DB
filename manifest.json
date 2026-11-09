@@ -1,5 +1,5 @@
 {
-  "id": "./index.html",
+  "id": "./",
   "name": "Menú Familiar 4x4",
   "short_name": "Menú 4x4",
   "description": "Menú semanal 4x4 con 60 platos familiares, postres caseros sanos y doble modo de cocción (Exprés / Tradicional).",
@@ -9,6 +9,7 @@
   "orientation": "portrait-primary",
   "background_color": "#fffaf0",
   "theme_color": "#ea580c",
+  "dir": "ltr",
   "lang": "es",
   "categories": ["food", "lifestyle"],
   "icons": [
@@ -41,6 +42,22 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Captura de pantalla Menú 4x4"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Captura de pantalla Menú 4x4 Escritorio"
     }
   ]
 }
